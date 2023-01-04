@@ -1,8 +1,3 @@
 # Hello, world!
 
-- [Website](https://2sk.nl/)
-- [GitHub](https://github.com/tweska/)
-- <a rel="me" href="https://tilde.zone/@tweska">Mastodon</a>
-- [Tilde.Club](https://tilde.club/~tweska/)
-- [Tilde.Cafe](https://tilde.cafe/~tweska/)
-
+My name is Kevin Nobel aka tweska or 2sk! Some of the places where you can find me are: [my website](https://2sk.nl/); [here on GitHub](https://github.com/tweska/); and on [the Tildeverse](https://tilde.club/~tweska/)!
